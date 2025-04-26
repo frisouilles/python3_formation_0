@@ -1,8 +1,5 @@
 # Python 3 Formation 0
 
-![Elonet](https://elonet.fr/img/logo.png)
-
-
 # 1 - Introduction
 ## Histoire et pourquoi Python
 ### Historique
